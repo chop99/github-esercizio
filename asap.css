@@ -1,0 +1,90 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+      
+}
+.div-01{
+    text-align: center;
+}
+.div-00{
+    margin-left: 7.5cm;
+    margin-right: 7.5cm;
+}
+.titolo{
+    text-align:center ;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    padding-top: 0.5cm;
+}    
+.vegas{
+    padding-bottom: 0.5cm;
+}
+    
+.par-01{
+    margin-top: 0cm;
+    padding: 0.5cm;
+    background-color: rgb(253, 243, 237);
+    border-top: solid;
+    border-color: orange;
+    border-width: 0.05cm;
+}
+.art-01{
+    text-align: justify;
+   
+    margin-bottom: 0.5cm;
+}
+.im-0{
+    border-radius: 2%;
+}
+.par-02{
+    font-weight: bold;
+}
+.par-03{
+    font-weight: bold;
+}
+.span-01{
+    font-weight: bold;
+    
+}
+.span-02{
+    font-weight: bold;
+    
+}
+.ims{
+    border-left-width: 0.05cm;
+    border-left-color: goldenrod;
+    border-left-style: outset;
+    margin-bottom: 2cm;
+    line-height: 0.1cm;
+}
+.in-1{
+    margin-left: 0.5cm;
+    color: red;
+    margin-bottom: -0.5;
+}
+.in-2{
+    margin-left: 0.5cm;
+    color: #177; 
+}
+.par-04{
+    color: gray;
+    line-height: 0.5cm;
+}
+.sally{
+    text-align: center;
+    color: gray;
+}
+.div-04{
+
+    border-bottom: 0.05cm;
+    border-bottom-style: solid;
+    border-bottom-color: aquamarine;
+    margin-bottom: 0.5cm;
+}
+.div-05{
+
+    border-bottom: 0.05cm;
+    border-bottom-style: solid;
+    border-bottom-color: aquamarine;
+    margin-bottom: 0.5cm;
+}
+
